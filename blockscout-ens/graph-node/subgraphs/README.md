@@ -11,6 +11,7 @@
 | mode-subgraph | Mode | .mode | SpaceID contracts |
 | lightlink-subgraph | Lightlink | .ll | SpaceID contracts |
 | zns-subgraph | Polygon | .poly |      |
+| ans-subgraph | Arthera | .arthera |      |
 
 ## Add your own subgraph
 
